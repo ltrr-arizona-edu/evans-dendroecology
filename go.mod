@@ -1,4 +1,4 @@
-module github.com/ltrr-arizona-edu/az-hugo-academic
+module github.com/ltrr-arizona-edu/evans-dendroecology
 
 go 1.15
 
