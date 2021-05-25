@@ -2,6 +2,7 @@
 /public/
 # Hugo folders
 /resources/
+jsconfig.json
 
 # Numerous always-ignore extensions
 *.diff
