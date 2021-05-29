@@ -24,10 +24,10 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
+- description: 100%
+  icon: seedling
   icon_pack: fas
-  name: Photography
+  name: Ecology
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
