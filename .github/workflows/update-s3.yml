@@ -25,5 +25,5 @@ jobs:
       - name: Deploy newly built site to S3 + CloudFront
         run: |
           aws s3 sync --delete public/ s3://${{ secrets.LTRR_SITE_BUCKET }}/
-          aws cloudfront create-invalidation --distribution-id ${{ secrets.LTRR_SITE_CDN }} --paths /*
+          aws cloudfront create-invalidation --distribution-id ${{ secrets.LTRR_SITE_CDN }} --paths '/*'
 
