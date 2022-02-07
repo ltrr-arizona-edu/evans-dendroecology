@@ -19,7 +19,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am passionate about using data to bridge the gap between basic ecology and natural resources management, including the conservation of biodiversity. I use statistical models to quantify and understand the effects of land-use and climate change on species’ performance, abundance, and geographic distributions, through the lens of the demographic niche. By quantifying the major drivers of population dynamics, I seek to improve ecological forecasting under alternative management scenarios and accelerate the process of adaptive management.
+bio: ""
 
 # Interests to show in About widget
 interests:
@@ -63,3 +63,5 @@ highlight_name: true
 
 user_groups: ["Researchers"]
 ---
+
+I am passionate about using data to bridge the gap between basic ecology and natural resources management, including the conservation of biodiversity. I use statistical models to quantify and understand the effects of land-use and climate change on species’ performance, abundance, and geographic distributions, through the lens of the demographic niche. By quantifying the major drivers of population dynamics, I seek to improve ecological forecasting under alternative management scenarios and accelerate the process of adaptive management.

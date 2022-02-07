@@ -14,7 +14,7 @@ organizations:
   url: https://ltrr.arizona.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research aims to understand and forecast the response of vegetation to complex and interacting environmental changes. Forecasting responses of ecological systems is imperative, as critical ecosystem services to society (such as forest carbon storage, forest feedbacks with climate, and biodiversity) are at risk under elevated atmospheric CO₂, changing climate, and land-use intensification. I take an ecological forecasting approach to fully account for uncertainties and predict how future ecosystems and their services will respond to a multitude of environmental changes, with the overall goal of managing ecological systems for a resilient future.
+bio: ""
 
 # Interests to show in About widget
 interests:
@@ -58,3 +58,5 @@ highlight_name: true
 
 user_groups: ["Researchers"]
 ---
+
+My research aims to understand and forecast the response of vegetation to complex and interacting environmental changes. Forecasting responses of ecological systems is imperative, as critical ecosystem services to society (such as forest carbon storage, forest feedbacks with climate, and biodiversity) are at risk under elevated atmospheric CO₂, changing climate, and land-use intensification. I take an ecological forecasting approach to fully account for uncertainties and predict how future ecosystems and their services will respond to a multitude of environmental changes, with the overall goal of managing ecological systems for a resilient future.
