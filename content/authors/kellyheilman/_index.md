@@ -34,7 +34,7 @@ education:
 
 # Social/Academic Networking
 social:
-- icon: external-link
+- icon: external-link-alt
   icon_pack: fas
   link: https://kah5.github.io/
 - icon: envelope
