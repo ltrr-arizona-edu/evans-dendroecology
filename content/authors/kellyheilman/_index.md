@@ -14,7 +14,7 @@ organizations:
   url: https://ltrr.arizona.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: My research aims to understand and forecast the response of vegetation to multiple environmental changes from the tree to biome scales. This ecological forecasting approach allows us make predictions about future vegetation, with the overall goal of managing systems for a resilient future.
 
 # Interests to show in About widget
 interests:
@@ -60,3 +60,5 @@ user_groups: ["Researchers"]
 ---
 
 My research aims to understand and forecast the response of vegetation to complex and interacting environmental changes. Forecasting responses of ecological systems is imperative, as critical ecosystem services to society (such as forest carbon storage, forest feedbacks with climate, and biodiversity) are at risk under elevated atmospheric CO₂, changing climate, and land-use intensification. I take an ecological forecasting approach to fully account for uncertainties and predict how future ecosystems and their services will respond to a multitude of environmental changes, with the overall goal of managing ecological systems for a resilient future.
+
+In my [Master’s research(https://clgiebink.github.io/project/ms-fvs/), I created a climate-sensitive version of a forestry growth and yield model using the information contained in tree-ring time series data. The new model can be incorporated into a U.S. Forest Service management tool, the Forest Vegetation Simulator (FVS), which simulates forest dynamics.
