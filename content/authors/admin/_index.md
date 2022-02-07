@@ -64,7 +64,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 Margaret Evans' connection to the ecosystems of the interior western U.S. commenced at age eight, when she first attended the Oregon Museum of Science and Industry’s science camp at Hancock Field Station near the John Day fossil beds of eastern Oregon. Her 25-year record in ecology includes work for The Nature Conservancy, the U.S. Forest Service, Archbold Biological Station (in south-central Florida), Yale University, and the Museum National d'Histoire Naturelle in Paris, France, along with field experience in the Pacific Northwest, Florida, Papua New Guinea, and the desert Southwest. 
