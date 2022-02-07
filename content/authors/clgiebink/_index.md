@@ -31,7 +31,7 @@ interests:
 education:
   courses:
   - course: M.Sc. in  Ecology and Evolutionary Biology
-    institution: The University of arizona
+    institution: The University of Arizona
     year: 2021
   - course: B.Sc. Biology
     institution: University of Wisconsin La Crosse
