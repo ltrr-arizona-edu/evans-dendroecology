@@ -44,7 +44,7 @@ social:
   link: https://clgiebink.github.io/
 - icon: envelope
   icon_pack: fas
-  link: Courtney.Giebink@usda.gov
+  link: mailto:Courtney.Giebink@usda.gov
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/CourtneyGiebink

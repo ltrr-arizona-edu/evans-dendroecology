@@ -39,7 +39,7 @@ social:
   link: https://kah5.github.io/
 - icon: envelope
   icon_pack: fas
-  link: kellyannheilman@gmail.com
+  link: mailto:kellyannheilman@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/kelheil
