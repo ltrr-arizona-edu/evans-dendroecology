@@ -3,6 +3,7 @@
 # Hugo folders
 /resources/
 jsconfig.json
+.hugo_build.lock
 
 # Numerous always-ignore extensions
 *.diff
