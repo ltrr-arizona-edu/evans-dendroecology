@@ -6,7 +6,7 @@ title: Margaret E.K. Evans
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor, Dendrochronology
+role: Associate Professor, Dendrochronology
 
 # Organizations/Affiliations to show in About widget
 organizations:
