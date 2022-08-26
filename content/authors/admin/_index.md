@@ -18,9 +18,10 @@ bio: My research interests include combining tree-ring and forest inventory data
 
 # Interests to show in About widget
 interests:
-- Plant demographic modelling
 - Forest ecology
-- Dendroecology
+- Carbon Cycle science
+- Tree Rings
+- Plant demography
 
 # Education to show in About widget
 education:
