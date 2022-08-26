@@ -6,7 +6,7 @@ title: Margaret E.K. Evans
 superuser: true
 
 # Role/position/tagline
-role: Associate Professor, Dendrochronology
+role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.arizona.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include combining tree-ring and forest inventory data to quantify how climate variation affects trees, and  how forest ecosystems feedback on the climate system via their role in the carbon cycle.
+bio: My research interests include combining tree-ring and forest inventory data to quantify how climate variation affects trees, and how forest ecosystems feedback on the climate system via their role in the carbon cycle.
 
 # Interests to show in About widget
 interests:
@@ -68,8 +68,12 @@ email: ""
 highlight_name: true
 ---
 
-Margaret Evans' connection to the ecosystems of the interior western U.S. began at age 8, when she first attended the Oregon Museum of Science and Industry’s science camp at Hancock Field Station near the John Day fossil beds of eastern Oregon. Her 25-year record in ecology includes work for The Nature Conservancy, the U.S. Forest Service, Archbold Biological Station (in south-central Florida), Yale University, and the Museum National d'Histoire Naturelle in Paris, France, along with field experience in the Pacific Northwest, Florida, Papua New Guinea, and the desert Southwest. 
+I am a plant ecologist whose research falls at the intersection of the climate crisis and the biodiversity crisis. I work across the divide between basic and applied science, between ecology and evolution, and between the MacArthur and Odum schools of ecology. I am an integrative thinker who is interested in seeing the discipline of ecology grow, become stronger, and be applied to solve the pressing problems of the 21st century in an inter- and trans-disciplinary manner. My toolbox strongly features demographic data and models, and sometimes novel statistical methods (e.g., the use of Bayesian statistics for ecological forecasting).
 
-Her research has ranged widely, encompassing conservation biology, evolutionary ecology, population biology, systematic biology, and statistical ecology, with a central organizing theme of demography. It was the idea of applying demographic models at the scale of species’ geographic distributions—in order to anticipate the effects of climate change on those species—that brought her to tree rings. She focuses on combining tree-ring and forest inventory data to quantify how trees are affected by climate variation and how forest ecosystems feedback on the climate system via their role in the carbon cycle. Her research group is helping to develop a new tree-ring data network sampled in forest inventory plots throughout the western U.S., in collaboration with the U.S. Forest Service’s Forest Inventory and Analysis Program. The climate-growth relationships encoded in tree rings are then used to make projections of future tree growth—“ecological forecasts” of future forest ecosystem functioning and ecosystem services—and form the basis for forest management tools. Her perspective on these global change questions is further informed by her appreciation for the importance of ecological disturbances (e.g., fire and insect outbreaks) and life history evolution.
+The climate crisis 
+These days, my research mostly focuses on the climate crisis, by focusing on the planetary-scale feedback between forests and climate. Specifically, I am combining tree-ring and forest inventory data to quantify how trees are affected by climate variation and change and how forest ecosystems feedback on the climate system via their role in the carbon cycle. Statistical ecology. [Her research group is helping to develop a new tree-ring data network sampled in forest inventory plots throughout the western U.S., in collaboration with the U.S. Forest Service’s Forest Inventory and Analysis Program. The climate-growth relationships encoded in tree rings are then used to make projections of future tree growth—“ecological forecasts” of future forest ecosystem functioning and ecosystem services—and form the basis for forest management tools.] More text that links to projects???
 
-Margaret is an active teacher and mentor, and has a diverse research group exploring a variety of important questions at the LTRR.
+The biodiversity crisis
+In the past, my work was more focused on the biodiversity crisis - in terms of the origins, dynamics, and conservation of plant diversity. My training (and experience) was in plant population ecology, including rare plant conservation, population viability analysis, evolutionary ecology, and comparative biology.
+
+In addition to my research activities, I sincerely enjoy teaching and mentoring.
