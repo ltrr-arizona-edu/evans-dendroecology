@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Jaime Yazzie"
+title: "Cecelia Martinez"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "jaime-yazzie"
+- "cecelia-martinez"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Scientific Analyst
+role: M.Sc. student
 
 # Organizations/Affiliations
 organizations:
@@ -27,12 +27,12 @@ interests:
 
 education:
   courses:
-  - course: M.Sc. in Forestry
-    institution: Northern Arizona University
-    year: 2017
-  - course: B.Sc. in Environmental Science and Resource Management
-    institution: University of Washington
-    year: 2014
+  - course: B.Sc. in Ecology & Evolutionary Biology
+    institution: University of Arizona
+    year: 2020
+  - course: high school?
+    institution: Alaska
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons

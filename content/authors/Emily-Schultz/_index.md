@@ -1,21 +1,21 @@
 ---
 # Display name
-title: "Jaime Yazzie"
+title: "Emily Schultz"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "jaime-yazzie"
+- "emily-schultz"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Scientific Analyst
+role: (former) Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Laboratory of Tree-Ring Research, University of Arizona
-  url: "https://ltrr.arizona.edu"
+- name: Colorado Mountain College, Breckenridge
+  url: "https://coloradomtn.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -27,12 +27,12 @@ interests:
 
 education:
   courses:
-  - course: M.Sc. in Forestry
-    institution: Northern Arizona University
-    year: 2017
-  - course: B.Sc. in Environmental Science and Resource Management
-    institution: University of Washington
-    year: 2014
+  - course: Ph.D. Ecology & Evolutionary Biology
+    institution: Rice University
+    year: 2018
+  - course: Title course 1
+    institution: Name of Institution
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons

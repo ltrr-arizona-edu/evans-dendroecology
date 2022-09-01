@@ -1,38 +1,39 @@
 ---
 # Display name
-title: "Jaime Yazzie"
+title: "Erin Riordan"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "jaime-yazzie"
+- "erin-riordan"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Scientific Analyst
+role: (former) Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Laboratory of Tree-Ring Research, University of Arizona
-  url: "https://ltrr.arizona.edu"
+- name: Arizona-Sonora Desert Museum
+  url: "https://www.desertmuseum.org"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- plant biogeography and conservation
+- climate impacts and adaptation
+- sustainable food systems
 
 education:
   courses:
-  - course: M.Sc. in Forestry
-    institution: Northern Arizona University
-    year: 2017
-  - course: B.Sc. in Environmental Science and Resource Management
-    institution: University of Washington
-    year: 2014
+  - course: Ph.D. Ecology and Evolutionary Biology
+    institution: University of California, Los Angeles
+    year: 2013
+  - course: B.S. Ecology, Behavior, and Evolution
+    institution: University of California, Los Angeles
+    year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
