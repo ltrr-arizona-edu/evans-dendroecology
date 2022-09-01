@@ -1,0 +1,65 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: Conservation of Phylogenetic Diversity in Madagascar's Largest Endemic Plant
+  Family, Sarcolaenaceae
+subtitle: ''
+summary: ''
+authors:
+- Anaëlle Soulebeau
+- Roseli Pellens
+- Porter P. Lowry
+- Xavier Aubriot
+- Margaret E. K. Evans
+- Thomas Haevermans
+tags: []
+categories: []
+date: '2016-01-01'
+lastmod: 2022-09-01T03:24:45-07:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-09-01T10:24:43.630268Z'
+publication_types:
+- '6'
+abstract: "Madagascar is renowned for its impressive species richness and high level\
+  \ of endemism, which led to the island being recognized as one of the world's most\
+  \ important biodiversity hotspots. As in many other regions, Madagascar's biodiversity\
+  \ is highly threatened by unsustainable anthropogenic disturbance, leading to widespread\
+  \ habitat loss and degradation. Although the country has significantly expanded\
+  \ its network of protected areas (PAs), current protocols for identifying priority\
+  \ areas are based on traditional measures that could fail to ensure maximal inclusion\
+  \ of the country's biodiversity. In this study, we use Madagascar's largest endemic\
+  \ plant family, Sarcolaenaceae, as a model to identify areas with high diversity\
+  \ and to explore the potential conservation importance of these areas. Using phylogenetic\
+  \ information and species distribution data, we employ three metrics to study geographic\
+  \ patterns of diversity: species richness, Phylogenetic Diversity (PD) and Mean\
+  \ Phylogenetic Diversity (MPD). The distributions of species richness and PD show\
+  \ considerable spatial congruence, with the highest values found in a narrow localized\
+  \ region in the central-northern portion of the eastern humid forest. MPD is comparatively\
+  \ uniform spatially, suggesting that the balanced nature of the phylogenetic tree\
+  \ plays a role in the observed congruence between PD and species richness. The current\
+  \ network of PAs includes a large part of the family's biodiversity, and three PAs\
+  \ (Ankeniheny Zahamena Forest Corridor, the Bongolava Forest Corridor and the Itremo\
+  \ Massif) together contain almost 85 % of the PD. Our results suggest that PD could\
+  \ be a valuable source of complementary information for determining the contribution\
+  \ of Madagascar's existing network of PAs toward protecting the country's biodiversity\
+  \ and for identifying priority areas for the establishment of new parks and reserves."
+publication: '*Biodiversity Conservation and Phylogenetic Systematics: Preserving
+  our evolutionary heritage in an extinction crisis*'
+doi: https://doi.org/10.1007/978-3-319-22461-9_18
+---
