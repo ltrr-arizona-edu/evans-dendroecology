@@ -57,5 +57,5 @@ abstract: "Restoration ecologists are tasked with the challenge of returning an 
   \ may still play a critical role in the success of future restoration efforts in\
   \ the face of modern-day ecological novelties (Higgs et al. 2014)."
 publication: '*Foundations of Restoration Ecology*'
-doi: https://doi.org/10.5822/978-1-61091-698-1_16
+doi: 10.5822/978-1-61091-698-1_16
 ---

@@ -61,5 +61,5 @@ abstract: "Madagascar is renowned for its impressive species richness and high l
   \ and for identifying priority areas for the establishment of new parks and reserves."
 publication: '*Biodiversity Conservation and Phylogenetic Systematics: Preserving
   our evolutionary heritage in an extinction crisis*'
-doi: https://doi.org/10.1007/978-3-319-22461-9_18
+doi: 10.1007/978-3-319-22461-9_18
 ---
