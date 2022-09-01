@@ -48,10 +48,13 @@ social:
   link: https://twitter.com/USERNAME
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
+  link: https://scholar.google.com/citations?user=cV7f6CAAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/USERNAME
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/erin-riordan-8b2040147
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

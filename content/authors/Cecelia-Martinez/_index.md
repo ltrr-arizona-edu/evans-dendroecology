@@ -30,9 +30,9 @@ education:
   - course: B.Sc. in Ecology & Evolutionary Biology
     institution: University of Arizona
     year: 2020
-  - course: high school?
-    institution: Alaska
-    year: 2016
+#  - course: high school?
+#    institution: Alaska
+#    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
