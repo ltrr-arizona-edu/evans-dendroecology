@@ -40,13 +40,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:mekevans@arizona.edu
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#   icon_pack: fas
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=IGG0ZKQAAAAJ&hl=en
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
@@ -70,10 +70,10 @@ highlight_name: true
 
 I am a plant ecologist whose research falls at the intersection of the climate crisis and the biodiversity crisis. I work across the divide between basic and applied science, between ecology and evolution, and between the MacArthur and Odum schools of ecology. I am an integrative thinker who is interested in seeing the discipline of ecology grow, become stronger, and be applied to solve the pressing problems of the 21st century in an inter- and trans-disciplinary manner. My toolbox strongly features demographic data and models, and sometimes novel statistical methods (e.g., the use of Bayesian statistics for ecological forecasting).
 
-The climate crisis 
-These days, my research mostly focuses on the climate crisis, by focusing on the planetary-scale feedback between forests and climate. Specifically, I am combining tree-ring and forest inventory data to quantify how trees are affected by climate variation and change and how forest ecosystems feedback on the climate system via their role in the carbon cycle. Statistical ecology. [Her research group is helping to develop a new tree-ring data network sampled in forest inventory plots throughout the western U.S., in collaboration with the U.S. Forest Service’s Forest Inventory and Analysis Program. The climate-growth relationships encoded in tree rings are then used to make projections of future tree growth—“ecological forecasts” of future forest ecosystem functioning and ecosystem services—and form the basis for forest management tools.] More text that links to projects???
+_The climate crisis_
+These days, my research is mostly focused on the climate crisis - in terms of the planetary-scale feedback between forests and climate. Specifically, I am combining tree-ring and forest inventory data to quantify how trees are affected by climate variation and change and how forest ecosystems feedback on the climate system via their role in the global carbon cycle.  The climate-growth relationships encoded in tree rings are used to make projections of future tree growth—“ecological forecasts” of future forest ecosystem functioning and ecosystem services—and form the basis for forest management tools. More text that links to projects???
 
-The biodiversity crisis
-In the past, my work was more focused on the biodiversity crisis - in terms of the origins, dynamics, and conservation of plant diversity. My training (and experience) was in plant population ecology, including rare plant conservation, population viability analysis, evolutionary ecology, and comparative biology.
+_The biodiversity crisis_
+In the past, my work focused on the biodiversity crisis - in terms of the origins, dynamics, and conservation of plant diversity. My training (and experience) was in plant population ecology, including rare plant conservation, population viability analysis, evolutionary ecology, and comparative biology.
 
 In addition to my research activities, I sincerely enjoy teaching and mentoring.

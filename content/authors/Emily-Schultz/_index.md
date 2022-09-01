@@ -22,17 +22,17 @@ bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- plant demography and conservation
+- student-active pedagogy
 
 education:
   courses:
   - course: Ph.D. Ecology & Evolutionary Biology
     institution: Rice University
     year: 2018
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: B.A. Organismal Biology & Ecology
+    institution: Scripps College
+    year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:emilylschultz@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/USERNAME
