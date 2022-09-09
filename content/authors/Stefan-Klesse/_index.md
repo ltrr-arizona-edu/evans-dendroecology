@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: (former) Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -61,11 +61,9 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Group 1
-- Group 2
+user_groups: ["Researchers"]
 ---
