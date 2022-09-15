@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: (former) Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -22,14 +22,15 @@ bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Climate change solutions
+- Climate policy
+- Computer science
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: B.S. in Earth and Planetary Sciences
+    institution: Harvard University
+    year: 2025
   - course: Title course 1
     institution: Name of Institution
     year: 2012
@@ -41,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:sharmiladey@college.harvard.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/USERNAME
@@ -69,3 +70,5 @@ user_groups:
 - Group 1
 - Group 2
 ---
+
+Sharmila Dey is part of the class of 2025 at Harvard University and is concentrating in Earth and Planetary Science. She is interested in finding climate solutions and learning to work with governments and organizations to implement them. Outside of class, she is a Jazz DJ for the Harvard Radio Station and works for a student-run Asian American literary magazine. 
