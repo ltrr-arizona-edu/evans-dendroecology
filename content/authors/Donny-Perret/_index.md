@@ -22,26 +22,30 @@ bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- global change biogeography
+- ecological niche theory
+- forest ecology & dendroecology
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: Ph.D. in Ecology & Evolutionary Biology
+    institution: Brown University
+    year: 2021
+  - course: B.S. in Biology
+    institution: Stanford University
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: external-link-alt
+  icon_pack: fas
+  link: https://sites.google.com/brown.edu/danielperret
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:daniel_perret@brown.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/USERNAME
@@ -67,3 +71,5 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: ["Researchers"]
 ---
+
+I am currently an ORISE postdoctoral fellow with the US Forest Service Pacific Northwest Research Station. My work seeks to understand and predict the dramatic ways that human actions are altering the planet's ecology, with the goal of improving conservation and management outcomes. My current research leverages large-scale forest inventory data, tree-ring records, non-native distributions, and ecological niche theory to investigate the future of western North American forests in light of changing climatic and disturbance regimes.
