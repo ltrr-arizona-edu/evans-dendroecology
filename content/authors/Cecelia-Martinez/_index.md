@@ -22,8 +22,9 @@ bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Natural resources management
+- Forest ecology
+- Conservation biology
 
 education:
   courses:
@@ -67,3 +68,5 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: ["Researchers"]
 ---
+
+I joined the Evans lab in the Fall of 2022. After graduating with a bachelor’s degree in 2020, I spent the last few years conducting survey work for endangered and threatened plant and animal species on public lands, with the National Park Service and National Forest Service. For my master’s research, I will be focusing on developing a demographic model to predict species distribution in response to climate change on the endangered Whitebark Pine. In my free time, I enjoy exploring natural landscapes through hiking and backpacking, gardening, and singing in the local Tucson Symphony Chorus. 
