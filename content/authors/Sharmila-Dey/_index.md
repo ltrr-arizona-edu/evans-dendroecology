@@ -66,9 +66,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Group 1
-- Group 2
+user_groups: ["Researchers"]
 ---
 
 Sharmila Dey is part of the class of 2025 at Harvard University and is concentrating in Earth and Planetary Science. She is interested in finding climate solutions and learning to work with governments and organizations to implement them. Outside of class, she is a Jazz DJ for the Harvard Radio Station and works for a student-run Asian American literary magazine. 
