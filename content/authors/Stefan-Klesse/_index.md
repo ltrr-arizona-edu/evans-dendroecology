@@ -22,8 +22,9 @@ bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Dendroecology and dendroclimatology
+- Carbon cycle science
+- Global change
 
 education:
   courses:
@@ -41,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:stefan.klesse@wsl.ch
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/USERNAME
@@ -67,3 +68,5 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: ["Researchers"]
 ---
+
+Stefan Klesse currently works at the Swiss Federal Research Institute WSL in the Dendro sciences group. Stefan does research in Dendroecology and Dendroclimatology. His current project focuses on continental-scale modeling of climate sensitivity of European beech (Fagus sylvatica) and projection of future growth under global warming.
