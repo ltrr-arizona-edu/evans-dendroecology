@@ -28,11 +28,11 @@ interests:
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
+  - course: Ph.D. in Climate Science
+    institution: University of Bern
+    year: 2016
+  - course: Diploma in Geography
+    institution: Johannes Gutenberg University
     year: 2012
 
 # Social/Academic Networking

@@ -22,8 +22,9 @@ bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Tribal Forestry and Forest Management
+- Indigenous Methodology and Science
+- Climate change impacts on forest health and Diné communities
 
 education:
   courses:
@@ -51,9 +52,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/USERNAME
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/
+ - icon: linkedin
+   icon_pack: fab
+   link: https://linkedin.com/in/jaime-yazzie
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,3 +71,5 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: ["Researchers"]
 ---
+
+Jaime Yazzie (she/her/asdzaa) grew up in Lo'kaa niteel (Ganado, AZ).  She is Tséníjíkiní (Cliff-Dwellers/Honey Combed Rock People), born for Lók’aa’ Dine’é (Reed People Clan), maternal grandparents are Honágháahnii, (One-walks-around clan) and paternal grandparents are the Chishí Diné’é (Chiricahua Apache).  Jaime earned her Bachelors of Science from the University of Washington in Environmental Science and (Terrestrial) Resource Management and completed her Master of Science in Forestry from Northern Arizona University. She is currently a Scientific Analyst in the Laboratory of Tree Ring Research at the University of Arizona.
