@@ -39,3 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+My earliest work contributed to basic knowledge, either in terms of demography, reproductive biology, or genetic diversity, of the following rare plants: Asimina obovata (Annonaceae), Cimicifuga elata (Ranunculaceae), Dicerandra frutescens and D. christmanii (Lamiaceae), Eryngium cuneifolium (Apiaceae), Hypericum cumulicola (Hypericaceae), Liatris ohlingerae (Asteraceae), Nolina brittoniana (Asparagaceae), and Warea carteri (Brassicaceae). Most of these are plants endemic to Florida scrub that I worked with at Archbold Biological Station under Eric Menges.
