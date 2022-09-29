@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "TRdataNetwork"
+title: "Tree-ring data sourced in a forest inventory context"
 summary: ""
 authors: []
 tags: []

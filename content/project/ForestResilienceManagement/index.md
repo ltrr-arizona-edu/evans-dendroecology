@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "ForestResilienceManagement"
+title: "Forest Management"
 summary: ""
 authors: []
 tags: []
@@ -39,3 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Climate sensitive version of FVS
+
+Partnership with Navajo Forestry Department to enhance forest monitoring and detect the effects of climate variability and change on forests of the Defiance Plateau and Chuska and Lukachukai mountains.
