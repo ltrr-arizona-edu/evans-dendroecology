@@ -70,10 +70,10 @@ highlight_name: true
 
 I am a plant ecologist whose research falls at the intersection of the climate crisis and the biodiversity crisis. I work across the divide between basic and applied science, between ecology and evolution, and between the MacArthur and Odum schools of ecology. I am an integrative thinker who is interested in seeing the discipline of ecology grow, become stronger, and be applied to solve the pressing problems of the 21st century in an inter- and trans-disciplinary manner. My toolbox strongly features demographic data and models, and sometimes novel statistical methods (e.g., the use of Bayesian statistics for ecological forecasting).
 
-_The climate crisis_
-These days, my research is mostly focused on the climate crisis - in terms of the planetary-scale feedback between forests and climate. Specifically, I am combining tree-ring and forest inventory data to quantify how trees are affected by climate variation and change and how forest ecosystems feedback on the climate system via their role in the global carbon cycle.  The climate-growth relationships encoded in tree rings are used to make projections of future tree growth—“ecological forecasts” of future forest ecosystem functioning and ecosystem services—and form the basis for forest management tools. More text that links to projects???
+## The climate crisis
+These days, my research is mostly focused on the climate crisis - in terms of the planetary-scale feedback between forests and climate. Specifically, I am combining tree-ring and forest inventory data to quantify how trees are affected by climate variation and change and how forest ecosystems feedback on the climate system via their role in the global carbon cycle.  The climate-growth relationships encoded in tree rings are used to make projections of future tree growth—[“ecological forecasts”](/project/ecologicalforecasting/) of future forest ecosystem functioning and ecosystem services—and form the basis for forest management tools. More text that links to projects???
 
-_The biodiversity crisis_
+## The biodiversity crisis
 In the past, my work focused on the biodiversity crisis - in terms of the origins, dynamics, and conservation of plant diversity. My training (and experience) was in plant population ecology, including rare plant conservation, population viability analysis, evolutionary ecology, and comparative biology.
 
 In addition to my research activities, I sincerely enjoy teaching and mentoring.
