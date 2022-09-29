@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "DemographicRangeModeling"
+title: "Demographic Range Modeling"
 summary: ""
 authors: []
 tags: []
@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/emilylschultz/DemographicRangeModel"
 url_pdf: ""
 url_slides: ""
 url_video: ""

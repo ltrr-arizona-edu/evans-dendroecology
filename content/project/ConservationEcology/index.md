@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "ConservationEcology"
+title: "Conservation Ecology"
 summary: ""
 authors: []
 tags: []
@@ -39,4 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-My earliest work contributed to basic knowledge, either in terms of demography, reproductive biology, or genetic diversity, of the following rare plants: _Asimina obovata_ (Annonaceae), Cimicifuga elata (Ranunculaceae), Dicerandra frutescens and D. christmanii (Lamiaceae), Eryngium cuneifolium (Apiaceae), Hypericum cumulicola (Hypericaceae), Liatris ohlingerae (Asteraceae), Nolina brittoniana (Asparagaceae), and Warea carteri (Brassicaceae). Most of these are plants endemic to Florida scrub that I worked with at Archbold Biological Station under Eric Menges.
+My earliest work contributed to basic knowledge, either in terms of demography, reproductive biology, or genetic diversity, of the following rare plants: _Asimina obovata_ (_Annonaceae_), _Cimicifuga elata_ (_Ranunculaceae_), _Dicerandra frutescens_ and _D. christmanii_ (_Lamiaceae_), _Eryngium cuneifolium_ (_Apiaceae_), _Hypericum cumulicola_ (_Hypericaceae_), _Liatris ohlingerae_ (_Asteraceae_), _Nolina brittoniana_ (_Asparagaceae_), and _Warea carteri_ (_Brassicaceae_). Most of these are plants endemic to Florida scrub that I worked with at Archbold Biological Station under Eric Menges.

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "ComparativeEvolution"
+title: "Comparative Evolution"
 summary: ""
 authors: []
 tags: []
@@ -39,4 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-While a post-doctoral fellow at Yale University, I collaborated with Michael Donoghue and Stephen Smith to combine niche models and phylogenies to quantify climatic niche evolution and its role in the diversification of the “bird-cage” evening primroses (Evans et al. 2009; 2010 Presidential Award, American Society of Naturalists). By mapping phylogeny in climate space, we were able to visualize the remarkable radiation of climatic niches in this group. David Ackerly created the R function traitgram {picante} based on this work...and thus was born a whole enterprise of comparative analyses using "phylograms". As a post-doctoral fellow at the National Museum of Natural History in Paris, I collaborated with Thomas Haevermans and Xavier Aubriot to examine the evolution of succulent plant growth forms and its relationship to climate in Euphorbias of Madagascar, and with Sebastien Lavergne, Wilfried Thuiller, and Frederic Jiguet to analyze the relationship between past niche evolution in European birds and their current population trends.
+While a post-doctoral fellow at Yale University, I collaborated with Michael Donoghue and Stephen Smith to combine niche models and phylogenies to quantify climatic niche evolution and its role in the diversification of the “bird-cage” evening primroses (Evans et al. 2009; 2010 Presidential Award, American Society of Naturalists). By mapping phylogeny in climate space, we were able to visualize the remarkable radiation of climatic niches in this group. David Ackerly created the R function traitgram {picante} based on this work...and thus was born a whole enterprise of comparative analyses using "phylograms". As a post-doctoral fellow at the National Museum of Natural History in Paris, I collaborated with Thomas Haevermans and Xavier Aubriot to examine the evolution of succulent plant growth forms and its relationship to climate in _Euphorbias_ of Madagascar, and with Sebastien Lavergne, Wilfried Thuiller, and Frederic Jiguet to analyze the relationship between past niche evolution in European birds and their current population trends.
