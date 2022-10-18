@@ -59,6 +59,7 @@ highlight_languages:
 math: true
 diagram: false
 privacy_pack: false
+profile: false
 edit_page:
   repo_url: ''
   content_dir: ''
