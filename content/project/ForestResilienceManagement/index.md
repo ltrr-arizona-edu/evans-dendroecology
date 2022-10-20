@@ -40,6 +40,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Climate sensitive version of FVS
+Two lines of research in my group are aimed at creating useful tools for forest management in the face of changing climate. A former MS student in my lab, Courtney Giebink, created a climate-sensitive empirical forestry (growth and yield) model using tree-ring data (Giebink et al. 2022). This model (the Forest Vegetation Simulator, FVS) is used by forest managers across the US (and beyond) to plan silvicultural treatments and meet environmental planning regulations. FVS is also the basis for several approved forest carbon calculators. This is the first time the information in tree ring time series has been integrated into a forestry growth & yield model (even though the increment borer was invented in the late 19th century by foresters to measure absolute tree growth!). 
 
-Partnership with Navajo Forestry Department to enhance forest monitoring and detect the effects of climate variability and change on forests of the Defiance Plateau and Chuska and Lukachukai mountains.
+In a second line of work, I am partnering with the Navajo Forestry Department to enhance their existing forest monitoring and detect the effects of climate variability and change on the health of forests of the Defiance Plateau and Chuska and Lukachukai mountains. Our partnership has led to an exceptional collection of >1,000 increment cores collected in NFD's Continuous Forest Inventory, which we will use to create a climate-sensitive version of FVS parameterized with local data to facilitate NFD's management aimed at increasing forest resistance and resilience to changing climate.
