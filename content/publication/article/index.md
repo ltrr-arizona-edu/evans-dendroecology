@@ -1,20 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Extreme environments select for reproductive assurance: evidence from evening
-  primroses (Oenothera)'
+title: Breeding system variation in 10 evening primroses (Oenothera sections Anogra
+  and Kleinia; Onagraceae)
 subtitle: ''
 summary: ''
 authors:
-- Margaret Evans
-- David Hearn
 - Kathryn Theiss
-- Karen Cranston
 - Kent Holsinger
-- Michael Donoghue
+- Margaret Evans
 tags: []
 categories: []
-date: '2011-03-01'
+date: '2010-06-01'
 lastmod: 2022-08-26T14:37:58-07:00
 featured: false
 draft: false
@@ -33,10 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-21T22:30:04.902680Z'
+publishDate: '2022-11-21T22:37:08.498372Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*The New phytologist*'
-doi: 10.1111/j.1469-8137.2011.03697.x
+publication: '*American journal of botany*'
+doi: 10.3732/ajb.0900260
 ---
