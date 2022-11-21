@@ -1,0 +1,67 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: 'Estimating covariation between vital rates: A simulation study of connected
+  vs. separate generalized linear mixed models (GLMMs)'
+subtitle: ''
+summary: ''
+authors:
+- Margaret E. K. Evans
+- Kent E. Holsinger
+tags:
+- Vital rate covariation
+- Generalized linear mixed models
+- Year effects
+- Hierarchical Bayesian model
+- Demography
+- Transition matrix model
+categories: []
+date: '2012-01-01'
+lastmod: 2022-11-21T15:20:36-07:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-11-21T22:20:36.266073Z'
+publication_types:
+- '2'
+abstract: Covariation between vital rates is recognized as an important pattern to
+  be accounted for in demographic modeling. We recently introduced a model for estimating
+  vital rates and their covariation as a function of known and unknown effects, using
+  generalized linear mixed models (GLMM’s) implemented in a hierarchical Bayesian
+  framework (Evans et al., 2010) In particular, this model included a model-wide year
+  effect (YEAR) influencing all vital rates, which we used to estimate covariation
+  between vital rates due to exogenous factors not directly included in the model.
+  This YEAR effect connected the GLMMs of vital rates into one large model; we refer
+  to this as the “connected GLMMs” approach. Here we used a simulation study to evaluate
+  the performance of a simplified version of this model, compared to separate GLMMs
+  of vital rates, in terms of their ability to estimate correlations between vital
+  rates. We simulated data from known relationships between vital rates and a covariate,
+  inducing correlations among the vital rates. We then estimated those correlations
+  from the simulated data using connected vs. separate GLMMs with year random effects.
+  We compared precision and accuracy of estimated vital rates and their correlations
+  under three scenarios of the pervasiveness of the exogenous effect (and thus true
+  correlations). The two approaches provide equally good point estimates of vital
+  rate parameters, but connected GLMMs provide better estimates of covariation between
+  vital rates than separate GLMMs, both in terms of accuracy and precision, when the
+  common influence on vital rates is pervasive. We discuss the situations where connected
+  GLMMs might be best used, as well as further areas of investigation for this approach.
+publication: '*Theoretical Population Biology*'
+doi: https://doi.org/10.1016/j.tpb.2012.02.003
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0040580912000275
+---
