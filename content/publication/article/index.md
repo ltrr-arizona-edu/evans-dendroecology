@@ -1,18 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Climate, Niche Evolution, and Diversification of the “Bird‐Cage” Evening Primroses
-  ( Oenothera , Sections Anogra and Kleinia )
+title: Modeling the effect of fire on the demography of Dicerandra frutescens ssp.
+  frutescens (Lamiaceae), an endangered plant endemic to Florida scrub
 subtitle: ''
 summary: ''
 authors:
 - Margaret Evans
-- Stephen Smith
-- Rachel Flynn
-- Michael Donoghue
+- Kent Holsinger
+- Eric Menges
 tags: []
 categories: []
-date: '2008-02-01'
+date: '2008-01-01'
 lastmod: 2022-08-26T14:37:58-07:00
 featured: false
 draft: false
@@ -31,10 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-21T22:41:08.111618Z'
+publishDate: '2022-11-21T22:48:12.346152Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*The American naturalist*'
-doi: 10.1086/595757
+publication: '*Population Ecology*'
+doi: 10.1007/s10144-007-0060-6
 ---
