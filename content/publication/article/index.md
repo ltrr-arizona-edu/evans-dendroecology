@@ -1,21 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Sampling bias overestimates climate change impacts on forest growth in the
-  southwestern United States
+title: 'Extreme environments select for reproductive assurance: evidence from evening
+  primroses (Oenothera)'
 subtitle: ''
 summary: ''
 authors:
-- Stefan Klesse
-- R. Justin DeRose
-- Christopher Guiterman
-- Ann Lynch
-- Christopher O’Connor
-- John Shaw
 - Margaret Evans
+- David Hearn
+- Kathryn Theiss
+- Karen Cranston
+- Kent Holsinger
+- Michael Donoghue
 tags: []
 categories: []
-date: '2018-12-01'
+date: '2011-03-01'
 lastmod: 2022-08-26T14:37:58-07:00
 featured: false
 draft: false
@@ -34,10 +33,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-26T21:37:57.459385Z'
+publishDate: '2022-11-21T22:30:04.902680Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Nature Communications*'
-doi: 10.1038/s41467-018-07800-y
+publication: '*The New phytologist*'
+doi: 10.1111/j.1469-8137.2011.03697.x
 ---
