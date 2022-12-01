@@ -54,5 +54,5 @@ publication: '*The American Naturalist*'
 doi: 10.1086/510599
 links:
 - name: URL
-  url: '   https://doi.org/10.1086/510599   '
+  url: https://doi.org/10.1086/510599
 ---

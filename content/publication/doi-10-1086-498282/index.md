@@ -52,5 +52,5 @@ publication: '*The Quarterly Review of Biology*'
 doi: 10.1086/498282
 links:
 - name: URL
-  url: '   https://doi.org/10.1086/498282   '
+  url: https://doi.org/10.1086/498282
 ---
