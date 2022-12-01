@@ -1,17 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Mating systems and limits to seed production in two Dicerandra mints endemic
-  to Florida scrub
+title: Modeling the effect of fire on the demography of Dicerandra frutescens ssp.
+  frutescens (Lamiaceae), an endangered plant endemic to Florida scrub
 subtitle: ''
 summary: ''
 authors:
 - Margaret Evans
+- Kent Holsinger
 - Eric Menges
-- Doria Gordon
 tags: []
 categories: []
-date: '2004-09-01'
+date: '2008-01-01'
 lastmod: 2022-08-26T14:37:58-07:00
 featured: false
 draft: false
@@ -30,10 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-21T23:03:27.251680Z'
+publishDate: '2022-11-21T22:48:12.346152Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Biodiversity and Conservation - BIODIVERS CONSERV*'
-doi: 10.1023/B:BIOC.0000035869.12388.0f
+publication: '*Population Ecology*'
+doi: 10.1007/s10144-007-0060-6
 ---
