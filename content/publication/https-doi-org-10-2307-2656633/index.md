@@ -15,7 +15,7 @@ tags:
 - effective population sizes
 - genetic diversity
 - mating system
-- Warea carteri.
+- Warea carteri
 categories: []
 date: '2000-01-01'
 lastmod: 2023-01-03T21:19:36Z
